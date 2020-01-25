@@ -4,7 +4,6 @@
 
 %define	pdir	Gearman
 %define	pnam	Server
-%include	/usr/lib/rpm/macros.perl
 Summary:	Gearman::Server - function call "router" and load balancer
 Name:		perl-Gearman-Server
 Version:	1.09
